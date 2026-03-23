@@ -4,10 +4,16 @@ Claude Code skills based on [The Minimalist Entrepreneur](https://www.minimalist
 
 ## Installation
 
-Install as a Claude Code plugin:
+Clone the repo locally, then install as a Claude Code plugin:
+
+```bash
+git clone https://github.com/slavingia/skills.git ~/.claude/plugins/skills
+```
+
+Then in Claude Code:
 
 ```
-/plugin install slavingia/skills
+/plugin install ~/.claude/plugins/skills
 ```
 
 ## Skills
